@@ -1,0 +1,66 @@
+
+.canhlechu {
+    text-align: left;
+}
+.menu {width:auto;
+    margin-top: 40px;
+color: darkorchid;}
+a { text-decoration: none;
+    color:darkorchid;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+a:visited {color:darkorchid;text-decoration: none;}
+a:hover {color: red;}
+.header {background-image: url("../images/lighthouselogo.jpg");
+background-repeat: no-repeat;
+height:150px;
+background-color:#8fa6d0;
+display:table;
+width: 98%;
+margin: 0px auto;
+border: 1px solid black;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 10px;
+}
+h1{margin: 0px;
+vertical-align:middle;
+display: table-cell;
+padding-left: 200px;}
+.chongtran {clear: both;}
+.box1{width: 850px;
+height: 600px;
+display: flex;
+height: auto;
+margin-top: 30px;
+margin-left: 0px;
+margin-bottom: 30px;
+border: 1px solid black;}
+.box2{
+width: 110px;
+height: 100px;
+float: left;
+margin-top: 20px;
+margin-right: 20px;
+margin-bottom: 20px;
+border:1px solid black;
+padding: 2px;}
+.box3{float: right;
+width: 500px ;
+height: 450px;
+margin-top: 20px;
+margin-right: 20px;
+margin-bottom: 20px;
+border:1px solid black;
+padding: 2px;}
+.hinhnho {margin:10px 10px 0px 10px;
+border: black thick;
+padding: 2px;}
+.lechu{text-align: center;
+margin: 0px;}
+.hinhto {margin:10px 35px 0px 35px;
+border: black thick;
+padding: 2px;}
+.khung{display: flex;}
